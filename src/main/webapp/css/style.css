@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 sept. 2020, 03:20:33
+    Author     : tahiana
+*/
+.deconnexion{
+    color:red;
+}
+
+
+/*bar de recherche*/
+.barRecherche{
+    margin: 10px;
+    /* background-color: red; */
+    padding: 10px;
+    border:solid;
+    border-width: 1px;
+    border-color:rgb(188, 188, 188);
+}
+
+.contenu_recherche{
+    height: 500px;
+    padding: 10px;
+    margin: 10px;
+    border:solid;
+    border-bottom: none;
+    border-width: 1px;
+    border-color:rgb(188, 188, 188);
+}
+
+.button_pagination{
+    margin: 5px auto;
+}
+
+.active_tri th{
+    background-color: red;
+}
+
+.active_pagination {
+    background-color: #666666;
+    color: #ffffff;
+}
+
+/* form */
+.bloc_formulaire{
+    width: 600px;
+    height: 650px;
+    margin: 10px auto;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(188, 188, 188); 
+    padding: 30px 25px;
+}
+
